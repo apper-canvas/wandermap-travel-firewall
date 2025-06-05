@@ -1,9 +1,8 @@
 import { useState, useEffect } from 'react';
 import { motion } from 'framer-motion';
-import ApperIcon from '../components/atoms/ApperIcon';
+import ApperIcon from '../components/ApperIcon';
 import HomeTemplate from '../components/templates/HomeTemplate';
 import { tripService } from '../services';
-
 export default function HomePage() {
   const [trips, setTrips] = useState([]);
   const [loading, setLoading] = useState(false);
