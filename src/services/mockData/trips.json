@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "name": "Tokyo Adventure",
+    "startDate": "2024-03-15",
+    "endDate": "2024-03-22",
+    "destination": "Tokyo, Japan",
+    "coverImage": "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 3500,
+    "currency": "USD",
+    "createdAt": "2024-01-15T10:30:00Z",
+    "updatedAt": "2024-01-20T14:45:00Z"
+  },
+  {
+    "id": "2",
+    "name": "European Explorer",
+    "startDate": "2024-06-10",
+    "endDate": "2024-06-24",
+    "destination": "Paris, France",
+    "coverImage": "https://images.unsplash.com/photo-1502602898536-47ad22581b52?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 4200,
+    "currency": "EUR",
+    "createdAt": "2024-02-01T09:15:00Z",
+    "updatedAt": "2024-02-05T16:20:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Bali Retreat",
+    "startDate": "2024-08-05",
+    "endDate": "2024-08-15",
+    "destination": "Ubud, Bali",
+    "coverImage": "https://images.unsplash.com/photo-1555400113-d5c22dd4e173?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 2800,
+    "currency": "USD",
+    "createdAt": "2024-03-01T11:00:00Z",
+    "updatedAt": "2024-03-10T13:30:00Z"
+  },
+  {
+    "id": "4",
+    "name": "New York City Break",
+    "startDate": "2024-04-12",
+    "endDate": "2024-04-16",
+    "destination": "New York, USA",
+    "coverImage": "https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 1800,
+    "currency": "USD",
+    "createdAt": "2024-02-15T14:20:00Z",
+    "updatedAt": "2024-02-20T10:15:00Z"
+  },
+  {
+    "id": "5",
+    "name": "Iceland Road Trip",
+    "startDate": "2024-07-20",
+    "endDate": "2024-07-30",
+    "destination": "Reykjavik, Iceland",
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 3200,
+    "currency": "USD",
+    "createdAt": "2024-03-05T08:45:00Z",
+    "updatedAt": "2024-03-12T15:10:00Z"
+  },
+  {
+    "id": "6",
+    "name": "Thailand Explorer",
+    "startDate": "2024-09-01",
+    "endDate": "2024-09-14",
+    "destination": "Bangkok, Thailand",
+    "coverImage": "https://images.unsplash.com/photo-1552465011-b4e21bf6e79a?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 2200,
+    "currency": "USD",
+    "createdAt": "2024-04-01T12:30:00Z",
+    "updatedAt": "2024-04-08T09:20:00Z"
+  },
+  {
+    "id": "7",
+    "name": "Swiss Alps Adventure",
+    "startDate": "2024-12-15",
+    "endDate": "2024-12-22",
+    "destination": "Zermatt, Switzerland",
+    "coverImage": "https://images.unsplash.com/photo-1530841344095-b2893194affe?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 4800,
+    "currency": "CHF",
+    "createdAt": "2024-05-01T10:15:00Z",
+    "updatedAt": "2024-05-10T14:45:00Z"
+  },
+  {
+    "id": "8",
+    "name": "Morocco Discovery",
+    "startDate": "2024-10-05",
+    "endDate": "2024-10-18",
+    "destination": "Marrakech, Morocco",
+    "coverImage": "https://images.unsplash.com/photo-1539650116574-75c0c6d0ea89?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 2600,
+    "currency": "USD",
+    "createdAt": "2024-06-01T13:20:00Z",
+    "updatedAt": "2024-06-15T11:30:00Z"
+  },
+  {
+    "id": "9",
+    "name": "Australian Coastal",
+    "startDate": "2024-11-10",
+    "endDate": "2024-11-25",
+    "destination": "Sydney, Australia",
+    "coverImage": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 3800,
+    "currency": "AUD",
+    "createdAt": "2024-07-01T09:45:00Z",
+    "updatedAt": "2024-07-20T16:10:00Z"
+  },
+  {
+    "id": "10",
+    "name": "Patagonia Expedition",
+    "startDate": "2025-01-20",
+    "endDate": "2025-02-05",
+    "destination": "El Calafate, Argentina",
+    "coverImage": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+    "budget": 4500,
+    "currency": "USD",
+    "createdAt": "2024-08-01T11:30:00Z",
+    "updatedAt": "2024-08-15T14:20:00Z"
+  }
+]

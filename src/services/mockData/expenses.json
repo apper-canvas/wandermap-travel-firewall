@@ -1,0 +1,146 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "category": "transport",
+    "amount": 245.50,
+    "description": "Airport Express Train & Taxi to Hotel",
+    "date": "2024-03-15"
+  },
+  {
+    "id": "2",
+    "tripId": "1",
+    "category": "food",
+    "amount": 89.00,
+    "description": "Dinner at Izakaya Restaurant",
+    "date": "2024-03-15"
+  },
+  {
+    "id": "3",
+    "tripId": "1",
+    "category": "food",
+    "amount": 156.75,
+    "description": "Tsukiji Market Food Tour",
+    "date": "2024-03-16"
+  },
+  {
+    "id": "4",
+    "tripId": "1",
+    "category": "activities",
+    "amount": 32.00,
+    "description": "Tokyo Skytree Observatory Tickets",
+    "date": "2024-03-16"
+  },
+  {
+    "id": "5",
+    "tripId": "1",
+    "category": "transport",
+    "amount": 15.60,
+    "description": "Subway Day Pass",
+    "date": "2024-03-16"
+  },
+  {
+    "id": "6",
+    "tripId": "2",
+    "category": "transport",
+    "amount": 85.00,
+    "description": "RER Train from Airport to City Center",
+    "date": "2024-06-10"
+  },
+  {
+    "id": "7",
+    "tripId": "2",
+    "category": "food",
+    "amount": 67.50,
+    "description": "Lunch at Marais Bistro",
+    "date": "2024-06-10"
+  },
+  {
+    "id": "8",
+    "tripId": "2",
+    "category": "activities",
+    "amount": 25.00,
+    "description": "Notre-Dame Area Walking Tour",
+    "date": "2024-06-10"
+  },
+  {
+    "id": "9",
+    "tripId": "3",
+    "category": "transport",
+    "amount": 120.00,
+    "description": "Airport Transfer to Ubud Resort",
+    "date": "2024-08-05"
+  },
+  {
+    "id": "10",
+    "tripId": "3",
+    "category": "activities",
+    "amount": 45.00,
+    "description": "Yoga Class & Meditation Session",
+    "date": "2024-08-05"
+  },
+  {
+    "id": "11",
+    "tripId": "4",
+    "category": "transport",
+    "amount": 55.00,
+    "description": "Yellow Cab from JFK to Manhattan",
+    "date": "2024-04-12"
+  },
+  {
+    "id": "12",
+    "tripId": "4",
+    "category": "food",
+    "amount": 125.80,
+    "description": "New York Pizza & Broadway Dinner",
+    "date": "2024-04-12"
+  },
+  {
+    "id": "13",
+    "tripId": "4",
+    "category": "activities",
+    "amount": 89.00,
+    "description": "Empire State Building Observatory",
+    "date": "2024-04-13"
+  },
+  {
+    "id": "14",
+    "tripId": "4",
+    "category": "shopping",
+    "amount": 234.50,
+    "description": "Souvenir Shopping in Times Square",
+    "date": "2024-04-14"
+  },
+  {
+    "id": "15",
+    "tripId": "5",
+    "category": "transport",
+    "amount": 450.00,
+    "description": "Car Rental for 10 Days",
+    "date": "2024-07-20"
+  },
+  {
+    "id": "16",
+    "tripId": "5",
+    "category": "accommodation",
+    "amount": 189.00,
+    "description": "Guesthouse in Reykjavik (2 nights)",
+    "date": "2024-07-20"
+  },
+  {
+    "id": "17",
+    "tripId": "5",
+    "category": "activities",
+    "amount": 78.00,
+    "description": "Blue Lagoon Geothermal Spa",
+    "date": "2024-07-21"
+  },
+  {
+    "id": "18",
+    "tripId": "5",
+    "category": "food",
+    "amount": 95.50,
+    "description": "Traditional Icelandic Dinner",
+    "date": "2024-07-22"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "id": "1",
+    "tripId": "1",
+    "date": "2024-03-15",
+    "dayNumber": 1,
+    "activities": [
+      {
+        "id": "1",
+        "title": "Airport Arrival & Hotel Check-in",
+        "startTime": "14:00",
+        "endTime": "16:00",
+        "location": "Shibuya District, Tokyo",
+        "coordinates": { "lat": 35.6598, "lng": 139.7006 },
+        "notes": "Take the Airport Express train to Shibuya. Hotel is 5 minutes walk from station.",
+        "category": "transport"
+      },
+      {
+        "id": "2",
+        "title": "Shibuya Crossing Experience",
+        "startTime": "17:00",
+        "endTime": "18:30",
+        "location": "Shibuya Crossing, Tokyo",
+        "coordinates": { "lat": 35.6596, "lng": 139.7006 },
+        "notes": "Experience the world's busiest pedestrian crossing. Great for photos!",
+        "category": "sightseeing"
+      },
+      {
+        "id": "3",
+        "title": "Welcome Dinner at Izakaya",
+        "startTime": "19:00",
+        "endTime": "21:00",
+        "location": "Omoide Yokocho, Shinjuku",
+        "coordinates": { "lat": 35.6938, "lng": 139.7023 },
+        "notes": "Traditional Japanese pub experience. Try the yakitori and sake!",
+        "category": "food"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "tripId": "1",
+    "date": "2024-03-16",
+    "dayNumber": 2,
+    "activities": [
+      {
+        "id": "4",
+        "title": "Tsukiji Outer Market Food Tour",
+        "startTime": "08:00",
+        "endTime": "11:00",
+        "location": "Tsukiji Outer Market, Tokyo",
+        "coordinates": { "lat": 35.6654, "lng": 139.7707 },
+        "notes": "Early morning market visit for fresh sushi and street food. Bring cash!",
+        "category": "food"
+      },
+      {
+        "id": "5",
+        "title": "Senso-ji Temple Visit",
+        "startTime": "12:00",
+        "endTime": "14:00",
+        "location": "Asakusa, Tokyo",
+        "coordinates": { "lat": 35.7148, "lng": 139.7967 },
+        "notes": "Tokyo's oldest temple. Don't miss the traditional shopping street approach.",
+        "category": "sightseeing"
+      },
+      {
+        "id": "6",
+        "title": "Tokyo Skytree Observatory",
+        "startTime": "15:30",
+        "endTime": "17:30",
+        "location": "Tokyo Skytree, Sumida",
+        "coordinates": { "lat": 35.7101, "lng": 139.8107 },
+        "notes": "Best city views! Book tickets in advance to avoid queues.",
+        "category": "sightseeing"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "tripId": "2",
+    "date": "2024-06-10",
+    "dayNumber": 1,
+    "activities": [
+      {
+        "id": "7",
+        "title": "Arrival at Charles de Gaulle",
+        "startTime": "10:30",
+        "endTime": "12:00",
+        "location": "Charles de Gaulle Airport, Paris",
+        "coordinates": { "lat": 49.0097, "lng": 2.5479 },
+        "notes": "Take RER B train to central Paris. Journey takes about 45 minutes.",
+        "category": "transport"
+      },
+      {
+        "id": "8",
+        "title": "Hotel Check-in & Lunch",
+        "startTime": "13:00",
+        "endTime": "15:00",
+        "location": "Marais District, Paris",
+        "coordinates": { "lat": 48.8566, "lng": 2.3522 },
+        "notes": "Boutique hotel in historic district. Lunch at nearby bistro.",
+        "category": "accommodation"
+      },
+      {
+        "id": "9",
+        "title": "Notre-Dame Cathedral",
+        "startTime": "16:00",
+        "endTime": "17:30",
+        "location": "Île de la Cité, Paris",
+        "coordinates": { "lat": 48.8530, "lng": 2.3499 },
+        "notes": "Gothic masterpiece. Note: Currently under restoration after fire.",
+        "category": "sightseeing"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "tripId": "3",
+    "date": "2024-08-05",
+    "dayNumber": 1,
+    "activities": [
+      {
+        "id": "10",
+        "title": "Arrival in Ubud",
+        "startTime": "14:30",
+        "endTime": "16:00",
+        "location": "Ngurah Rai Airport to Ubud",
+        "coordinates": { "lat": -8.7467, "lng": 115.1667 },
+        "notes": "Pre-arranged transfer to resort. Journey takes about 1.5 hours.",
+        "category": "transport"
+      },
+      {
+        "id": "11",
+        "title": "Resort Check-in & Spa Welcome",
+        "startTime": "16:30",
+        "endTime": "18:00",
+        "location": "Ubud Wellness Resort",
+        "coordinates": { "lat": -8.5069, "lng": 115.2625 },
+        "notes": "Welcome drink and complimentary 30-minute massage.",
+        "category": "accommodation"
+      },
+      {
+        "id": "12",
+        "title": "Sunset Yoga Session",
+        "startTime": "18:30",
+        "endTime": "19:30",
+        "location": "Resort Yoga Pavilion",
+        "coordinates": { "lat": -8.5069, "lng": 115.2625 },
+        "notes": "Gentle hatha yoga overlooking rice terraces. Perfect for jet lag.",
+        "category": "activities"
+      }
+    ]
+  }
+]
